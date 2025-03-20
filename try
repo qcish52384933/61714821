@@ -1,3 +1,4 @@
+try {
 out.close();
 public void fetch() throws SQLException, IOException
 try {
