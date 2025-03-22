@@ -1,3 +1,4 @@
+props.load(fs);
 try {
 out.close();
 public void fetch() throws SQLException, IOException
