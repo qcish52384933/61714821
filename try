@@ -1,3 +1,4 @@
+if (out != null) {
 props.load(fs);
 try {
 out.close();
